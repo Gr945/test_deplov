@@ -1,0 +1,11 @@
+.divProducts {
+  display: flex;
+  flex-direction: column;
+  margin: 1% 1% 1% 1%;
+  cursor: pointer;
+}
+.button {
+  margin-left: 3%;
+  color: red;
+  border-radius: 5px;
+}

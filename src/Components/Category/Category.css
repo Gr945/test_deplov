@@ -1,0 +1,6 @@
+.divOneCategory {
+  display: flex;
+  flex-direction: column;
+  margin: 1% 1% 1% 1%;
+  cursor: pointer;
+}

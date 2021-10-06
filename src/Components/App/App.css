@@ -1,0 +1,6 @@
+.categoryDiv {
+  display: flex;
+  flex-direction: column;
+  margin: 2% 2% 2% 2%;
+  background-color: aqua;
+}

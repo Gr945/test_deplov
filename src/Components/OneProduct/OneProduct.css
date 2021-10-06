@@ -1,0 +1,15 @@
+.oneProduct {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.info {
+  padding: 2% 2% 2% 2%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid blue;
+  background-color: darkcyan;
+}
